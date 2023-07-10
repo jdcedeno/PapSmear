@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Owner\\PycharmProjects\\ProteanLabs\\PapSmear\\Models\\model_1.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Owner\\PycharmProjects\\ProteanLabs\\PapSmear\\Models\\model_1.ckpt"
